@@ -5,11 +5,11 @@ module.exports = {
       options: {
          social: {
           // Usernames
-          twitter: `ichristiandavid`,
-          gitHub: `christiandavid`,
-          stackOverflow: `967956/christian-david`,
-          linkedIn: `in/christianibarguen/`,
-          resumeInPdf: `/CV-19.pdf`, // url or local link
+          twitter: `varunrawal`,
+          gitHub: `ravalvarun`,
+          stackOverflow:`#`,
+          linkedIn: `in/ravalvarun/`,
+          resumeInPdf: `#`, // url or local link
         },
         homePage: {
           availableToHire: true,
