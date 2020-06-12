@@ -1,6 +1,6 @@
 # portfolio
 
-## This is a work in progress to build my portfolio by using a template available from Christian David
+## This is a work in progress to build my portfolio by using a template created by Christian David
 
 [Link](https://www.gatsbyjs.org/packages/@christiandavid/gatsby-theme-byfolio/?=byfolio) to Christian David's theme
 
